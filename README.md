@@ -38,7 +38,7 @@ Demography: Background; Google Slides </br>
 [Demography: Population-Map](https://reliefweb.int/map/afghanistan/afghanistan-population-density-2020)  </br>
 [Demography: Edited Lightpollution-Map](https://darksitefinder.com/maps/world.html#6/35.066/63.951) </br>
  </br>
-[Social: Background(https://www.dw.com/de/frauen-in-afghanistan-fürchten-machtergreifung-der-taliban/a-58655495) </br>
+[Social: Background](https://www.dw.com/de/frauen-in-afghanistan-fürchten-machtergreifung-der-taliban/a-58655495) </br>
 [Social: Net Migration, Refugees from origin, Health Indicators, Life Expectancy](https://data.worldbank.org/country/afghanistan) </br>
 [Social: HDI Map](https://globaldatalab.org/shdi/maps/shdi/2000/?levels=4) </br>
 [Social: Refugees Map & Literacy Rates Map](https://www.aljazeera.com/news/2021/8/12/10-maps-to-understand-afghanistan-interactive) </br>
