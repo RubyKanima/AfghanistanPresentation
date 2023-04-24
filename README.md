@@ -3,6 +3,7 @@ This is a rep for a presentation's readme.md. This has nothing to do with progra
 
 <h2> Sources </h2>
 
+All sources were last retrieved on the 23.04.2023 </br>
 Intro: Background; Google Slides "Afghan War Background Parachutes" </br>
 [Intro: Flag](https://en.wikipedia.org/wiki/Flag_of_Afghanistan#/media/File:Flag_of_the_Islamic_Emirate_of_Afghanistan.svg) </br>
 [Intro: Translation](https://en.wikipedia.org/wiki/Shahada) </br>
@@ -45,6 +46,7 @@ Demography: Background; Google Slides </br>
  </br>
 [Economy: Background](https://youtu.be/qz3XqcTgsgQ?t=92) </br>
 [Economy: GDP(AF), GDP per capita(AF), GDP per capita, Shares of GDP in %, Military Expenditure (% of GDP)](https://data.worldbank.org/country/afghanistan) </br>
+</br>
 [Economy: Opium Poppy Cultivation Map & Poverty Map](https://www.aljazeera.com/news/2021/8/12/10-maps-to-understand-afghanistan-interactive) </br>
  </br>
 Military: Background; Google Slides </br>
