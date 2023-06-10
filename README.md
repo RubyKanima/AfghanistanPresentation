@@ -1,5 +1,5 @@
 # AfghanistanPresentation
-This is a rep for a presentation's readme.md. This has nothing to do with programming
+This is a repo for a presentation's readme.md. This has nothing to do with programming
 
 <h2> Sources </h2>
 
